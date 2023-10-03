@@ -1,0 +1,651 @@
+  @media(max-width:1280px) {
+      .view {
+          top: 270rem !important;
+      }
+
+      .modal-main {
+          width: 50%;
+      }
+
+  }
+
+  @media(max-width:1100px) {
+      .view {
+          top: 292rem !important;
+          right: 25rem !important;
+      }
+  }
+
+  @media (max-width:1060px) {
+      .started .achieve-image>img {
+          align-items: center;
+          width: 60%;
+          margin-left: 11rem;
+      }
+
+      .view {
+          top: 315rem !important;
+          left: 12rem;
+          right: 0;
+      }
+
+      .icons {
+          margin-left: 18rem;
+      }
+
+  }
+
+  /*
+    .about-image .coin:nth-of-type(2) {
+        top: 91rem;
+        left: 48rem;
+    }
+
+    .about-image .coin:nth-of-type(3) {
+        top: 106rem;
+        left: 45rem;
+    }
+
+    .about-image .coin:nth-of-type(4) {
+        top: 108rem;
+        right: 4rem;
+    }
+
+    .about-image .coin:nth-of-type(5) {
+        top: 110rem;
+        right: 10.5rem;
+    }
+
+    .about-image .coin:nth-of-type(6) {
+        top: 89rem;
+        right: 8rem;
+    }
+} */
+
+  @media(max-width:1024px) {
+
+      .about-detail {
+          margin-top: 1rem;
+      }
+
+      /* 
+    .about-image .coin:nth-of-type(2) {
+        top: 93rem;
+        left: 24rem;
+    }
+
+    .about-image .coin:nth-of-type(3) {
+        top: 112rem;
+        left: 20rem;
+    }
+
+    .about-image .coin:nth-of-type(4) {
+        top: 112rem;
+        right: 16rem;
+    }
+
+    .about-image .coin:nth-of-type(5) {
+        top: 114rem;
+        right: 22rem;
+    }
+
+    .about-image .coin:nth-of-type(6) {
+        top: 92rem;
+        right: 20rem;
+    } */
+  }
+
+
+
+  @media(max-width:1100px) {
+      .navbar .logo>img {
+          margin-left: 4rem !important;
+      }
+
+      .list-navbar .nav li:nth-of-type(1) {
+          left: 15% !important;
+      }
+
+      .list-navbar .nav li:nth-of-type(2) {
+          left: 25% !important;
+      }
+
+      .list-navbar .nav li:nth-of-type(3) {
+          right: 40% !important;
+      }
+
+      .list-navbar .nav li:nth-of-type(4) {
+          right: 25% !important;
+      }
+
+      .list-navbar .nav li:nth-of-type(5) {
+          right: 17%;
+
+      }
+
+      .list-navbar .nav li:nth-of-type(6) {
+          right: 5%;
+      }
+
+
+  }
+
+  @media(max-width:1024px) {
+      .timeline>div::before {
+          left: 12rem;
+      }
+  }
+
+  @media (max-width:940px) {
+      .navbar {
+          padding: 0.6rem 3%;
+      }
+
+      .navbar .logo {
+          margin-left: 0.5rem;
+      }
+
+      .user-detail {
+          gap: 0.5rem;
+      }
+  }
+
+  @media (max-width:900px) {
+      .list-navbar .nav {
+          display: none !important;
+      }
+
+      .menu-button {
+          display: inline-block !important;
+      }
+
+      .navbar .logo>img {
+          margin-left: -12rem !important;
+      }
+
+      .about-page>h1 {
+          font-size: 40px;
+          margin-left: 3rem;
+      }
+
+
+      .about-page-text {
+          width: 70%;
+          margin-left: 10rem;
+          margin-top: 4rem;
+      }
+
+
+  }
+
+  @media(max-width:850px) {
+
+      .modal-main {
+          width: 70%;
+      }
+
+      /* .close {
+          top: 14rem;
+          right: 20%;
+          font-size: 1.5rem;
+      } */
+  }
+
+  @media(max-width:810px) {
+      .home-image {
+          margin-top: -1rem;
+          width: 90%;
+          height: 500px;
+      }
+
+  }
+
+  @media(max-width:770px) {
+      .timeline>div::before {
+          left: 11rem;
+      }
+  }
+
+  @media(max-width:720px) {
+      .menu-button {
+          right: 18%;
+      }
+
+      .navbar .logo>img {
+          margin-left: -8rem !important;
+      }
+
+      .get-access>h1 {
+          margin-left: 0rem;
+      }
+
+      .get-access>p {
+          margin-left: 0rem;
+      }
+
+      .about-page {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+      }
+
+      .about-page>h1 {
+          margin-left: 0rem;
+      }
+
+      .about-page>img {
+          margin-left: 0rem;
+      }
+
+      .about-page-text {
+          width: 100%;
+          margin-left: 0rem;
+      }
+
+  }
+
+
+  @media(max-width:610px) {
+      .member {
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          justify-content: center;
+          padding: 2rem 2%;
+          gap: 2rem;
+      }
+
+      .member-text {
+          width: 30%;
+      }
+
+      .slider {
+          width: 80%;
+      }
+
+
+      .started .achieve-image>img {
+          width: 100%;
+          margin-left: 0rem;
+      }
+
+  }
+
+  @media(max-width:600px) {
+      .home-content {
+          margin-top: -4rem;
+      }
+
+      .home-image {
+          margin-top: -6rem !important;
+      }
+
+      .benefit-text {
+          margin-left: 0rem;
+      }
+
+      .modal-main {
+          width: 95%;
+      }
+
+      /* .close {
+          top: 14rem;
+          right: 10%;
+          font-size: 1.5rem;
+      } */
+
+      .benefit-box {
+          flex-wrap: wrap;
+          gap: 2rem;
+      }
+
+      .option {
+          width: 300px !important;
+      }
+
+      .option>ul .list {
+          font-size: 1.5rem !important;
+      }
+  }
+
+  @media(max-width:560px) {
+      .navbar .mobile-nav {
+          width: 40%;
+      }
+
+      .menu-button {
+          right: 20%;
+      }
+
+      .home-content h2 {
+          font-size: 2rem;
+          width: 95%;
+      }
+  }
+
+  @media(max-width:530px) {
+
+      .about-content h3 {
+          width: 90%;
+      }
+
+      .about-content>p {
+          width: 94%;
+      }
+
+      .start-box {
+          align-items: center;
+          /* gap: 2srem; */
+          width: 90%;
+      }
+
+      .start-box .line {
+          width: 350px;
+      }
+
+      .start-text p {
+          width: 80%;
+          /* display: none; */
+      }
+
+      .start-box2 {
+          width: 90%;
+
+      }
+
+
+
+  }
+
+  @media(max-width:500px) {
+      .navbar .logo>img {
+          margin-left: -6rem !important;
+      }
+
+      .get-access>h1 {
+          width: 95%;
+      }
+
+      .get-access>p {
+          width: 95%;
+      }
+
+      .timeline {
+          margin-left: 2rem;
+      }
+
+      .timeline>div::before {
+          left: 2rem;
+      }
+
+  }
+
+  @media(max-width:475px) {
+      .menu-button {
+          right: 22%;
+      }
+  }
+
+  @media(max-width:440px) {
+      .home-image {
+          width: 100%;
+      }
+
+      .about .heading h2 {
+          font-size: 3.4rem;
+          width: 90%;
+      }
+
+      .about .heading p {
+          margin-top: 1rem;
+          width: 90%;
+      }
+
+      .about-content h3 {
+          font-size: 2rem;
+      }
+
+      .about-content>p {
+          width: 95%;
+      }
+
+      .about-image>img {
+          height: 450px;
+          width: 95%;
+          margin-left: -6rem;
+      }
+
+      .about-image .trade {
+          width: 95%;
+      }
+
+  }
+
+
+  @media(max-width:420px) {
+
+
+      .navbar .logo>img {
+          height: 4.5rem;
+      }
+
+      .navbar .mobile-nav {
+          width: 55%;
+      }
+
+      .user-detail {
+          top: 1rem;
+      }
+
+      .menu-button {
+          top: 1.5rem;
+          right: 24%;
+      }
+
+
+      .start-box {
+          align-items: center;
+          width: 95%;
+      }
+
+      .start-box .line {
+          width: 300px;
+      }
+
+      /* .about-integrated .line {
+    height: 2px;
+    width: 30%;
+    background: var(--gray);
+  } */
+
+      .integrated-head p {
+          margin-top: -1rem;
+          font-size: 0.8rem;
+          color: var(--white);
+      }
+
+
+      .achieve-image>img {
+          width: 100%;
+          height: 400px;
+      }
+
+      .achieve-content h2 {
+          font-size: 2rem;
+          width: 90%;
+      }
+
+
+      .member-text {
+          width: 50%;
+      }
+
+      .slider {
+          width: 90%;
+      }
+
+      .get-access>h1 {
+          font-size: 2rem;
+      }
+  }
+
+
+  @media(max-width:400px) {
+      .navbar .logo>img {
+          margin-left: -4rem !important;
+      }
+
+      .navbar .logo>img {
+          height: 3.5rem !important;
+      }
+
+      .menu-button {
+          top: 1.3rem !important;
+      }
+
+      .benefit-text {
+          width: 95%;
+      }
+
+      .benefit-text p {
+          width: 95%;
+      }
+
+      .about-page {
+          padding: 2rem 2%;
+      }
+
+      .about-page>h1 {
+          font-size: 30px;
+      }
+
+      .about-page>img {
+
+          width: 15rem;
+          height: 15rem;
+      }
+
+
+
+  }
+
+  @media(max-width:386px) {
+      .popup-input {
+          align-items: center;
+          justify-content: center;
+      }
+  }
+
+  @media(max-width:370px) {
+      /* .home-content>div>h4 {
+  font-weight: lighter;
+  color: var(--white);
+} */
+
+      .home-content>h2 {
+          font-size: 1.5rem;
+          width: 100%;
+      }
+
+      /* .home-content>p {
+        margin-top: 1rem;
+        color: var(--gray);
+        font-size: 1.2rem;
+    } */
+
+      .home-content .buttons {
+          flex-direction: column;
+      }
+
+  }
+
+  @media(max-width:986px) {
+
+      .benefit-card {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          flex-direction: column-reverse !important;
+      }
+
+      .benefit-card-text {
+          width: 96%;
+      }
+
+      .option {
+          width: 30%;
+      }
+
+      .option>ul .list {
+          font-size: 1rem;
+          padding-right: 0.5rem;
+      }
+
+
+
+  }
+
+  @media(max-width:350px) {
+
+
+
+      .start-box .line {
+          width: 100%;
+      }
+
+      .start-box .start-text>h4 {
+          font-size: 1rem;
+      }
+
+      .get-access>h1 {
+          font-size: 1.6rem;
+      }
+  }
+
+
+  @media(max-width:320px) {
+      .navbar .logo>img {
+          margin-left: -2rem !important;
+      }
+
+      .integrated-head p {
+          font-size: 0.6rem;
+      }
+
+      .achieve-image>img {
+          width: 100%;
+          height: 300px;
+      }
+
+      .achieve-content h2 {
+          font-size: 1.8rem;
+          width: 95%;
+      }
+
+      .achieve-content p {
+          font-size: 1.2rem;
+          width: 90%;
+      }
+
+      .benefit-text>h1 {
+          font-size: 3rem;
+      }
+
+      .benefit-text>h2 {
+          font-size: 1.8rem;
+      }
+
+      .benefit-text>p {
+          font-size: 1rem;
+      }
+
+      .timeline>div::before {
+          left: 1.5rem;
+      }
+
+      .get-access .btn {
+          margin-left: 2rem;
+      }
+
+  }
